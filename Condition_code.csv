@@ -1,0 +1,812 @@
+﻿Condition,Condition_ID
+Zollinger-Ellison Syndrome,CD101
+zen Shoulde,CD102
+Xerostomia,CD103
+Wound Cleansing,CD104
+Women (oxybutynin),CD105
+Women (minoxidil),CD106
+Wolff-Parkinson-White Syndrome,CD107
+Wilson's Disease,CD108
+Weight Loss,CD109
+Wegener's Granulomatosis,CD110
+Warts,CD111
+Vulvodynia,CD112
+von Willebrand's Disease,CD113
+Vitamin/Mineral Supplementation during Pregnancy/Lactation,CD114
+Vitamin/Mineral Supplementation and Deficiency,CD115
+Vitamin K Deficiency,CD116
+Vitamin D Deficiency,CD117
+Vitamin B12 Deficiency,CD118
+Vertig,CD119
+Ventricular Tachycardia,CD120
+Ventricular Fibrillation,CD121
+Ventricular Arrhythmia,CD122
+Varicose Veins,CD123
+Varicella-Zoste,CD124
+Vaginal Yeast Infection,CD125
+Uveitis,CD126
+Uterine Fibroids,CD127
+Uterine Bleeding,CD128
+Urticaria,CD129
+Urinary Tract Stones,CD130
+Urinary Tract Infection,CD131
+Urinary Retention,CD132
+Urinary Incontinence,CD133
+Upper Respiratory Tract Infection,CD134
+Upper Limb Spasticity,CD135
+ungal Pneumonia,CD136
+ungal Infection Prophylaxis,CD137
+Undifferentiated Connective Tissue Disease,CD138
+Underactive Thyroid,CD139
+unctional Gastric Disorde,CD140
+Ulcerative Proctitis,CD141
+"Ulcerative Colitis, Maintenance",CD142
+"Ulcerative Colitis, Active",CD143
+Ulcerative Colitis,CD144
+Typhoid Feve,CD145
+Turner's Syndrome,CD146
+"Tuberculosis, Prophylaxis",CD147
+"Tuberculosis, Latent",CD148
+"Tuberculosis, Active",CD149
+TSH Suppression,CD150
+Trigeminal Neuralgia,CD151
+Trichotillomania,CD152
+Trichomoniasis,CD153
+Traveler's Diarrhea,CD154
+Transverse Myelitis,CD155
+Transient Ischemic Attack,CD156
+Tourette's Syndrome,CD157
+Topical Disinfection,CD158
+Toothache,CD159
+Tonsillitis/Pharyngitis,CD160
+Tinnitus,CD161
+Tinea Versicol,CD162
+Tinea Pedis,CD163
+Tinea Cruris,CD164
+Tinea Corporis,CD165
+Tinea Capitis,CD166
+Tinea Barbae,CD167
+Tic Disorde,CD168
+tic (mycophenolic acid),CD169
+Thyrotoxicosis,CD170
+Thyroid Suppression Test,CD171
+Thyroid Cance,CD172
+Thromboembolic Stroke Prophylaxis,CD173
+Thrombocytopenia,CD174
+Thrombocythemia,CD175
+Tetanus,CD176
+Testicular Cance,CD177
+Tendonitis,CD178
+Temporomandibular Joint Disorde,CD179
+Tardive Dyskinesia,CD180
+t Pac with Cyclobenzaprine (cyclobenzaprine),CD181
+t Care,CD182
+Systemic Sclerosis,CD183
+Systemic Mastocytosis,CD184
+Systemic Lupus Erythematosus,CD185
+Systemic Candidiasis,CD186
+Syringomyelia,CD187
+Swine Flu,CD188
+Surgical Prophylaxis,CD189
+Supraventricular Tachycardia,CD190
+Sunburn,CD191
+Submental Fullness,CD192
+Subarachnoid Hemorrhage,CD193
+Strongyloidiasis,CD194
+Stress Ulcer Prophylaxis,CD195
+Streptococcal Infection,CD196
+Strep Throat,CD197
+Strabismus,CD198
+Stomach Ulce,CD199
+Stomach Cance,CD200
+Still's Disease,CD201
+STD Prophylaxis,CD202
+Status Epilepticus,CD203
+Squamous Cell Carcinoma,CD204
+Sporotrichosis,CD205
+Spondylolisthesis,CD206
+Spondyloarthritis,CD207
+Sore Throat,CD208
+Somatoform Pain Disorde,CD209
+Solid Tumors,CD210
+Soft Tissue Sarcoma,CD211
+Social Anxiety Disorde,CD212
+Smoking Cessation,CD213
+Small Fiber Neuropathy,CD214
+Small Bowel or Pancreatic Fistula,CD215
+Small Bowel Bacterial Overgrowth,CD216
+Sleep Paralysis,CD217
+Skin Rash,CD218
+Skin or Soft Tissue Infection,CD219
+"Skin Disinfection, Preoperative",CD220
+Skin Cance,CD221
+Skin and Structure Infection,CD222
+Sjogren's Syndrome,CD223
+Sinusitis,CD224
+Sinus Symptoms,CD225
+SIADH,CD226
+Short Stature for Age,CD227
+Short Stature,CD228
+Shift Work Sleep Disorde,CD229
+"Sexual Dysfunction, SSRI Induced",CD230
+Severe Mood Dysregulation,CD231
+Sepsis,CD232
+Seizures,CD233
+Seizure Prevention,CD234
+Sedation,CD235
+Secondary Hyperparathyroidism,CD236
+Secondary Cutaneous Bacterial Infections,CD237
+Seborrheic Dermatitis,CD238
+Seasonal Allergic Conjunctivitis,CD239
+Seasonal Affective Disorde,CD240
+Scleroderma,CD241
+Sciatica,CD242
+Schnitzler Syndrome,CD243
+Schizophrenia,CD244
+Schizoaffective Disorde,CD245
+Schistosoma japonicum,CD246
+Schilling Test,CD247
+Scabies,CD248
+Sarcoidosis,CD249
+Salivary Gland Cance,CD250
+Rosacea,CD251
+Rhinorrhea,CD252
+Rhinitis,CD253
+Rheumatoid Arthritis,CD254
+Reversal of Opioid Sedation,CD255
+Reversal of Nondepolarizing Muscle Relaxants,CD256
+Restless Legs Syndrome,CD257
+Renal Transplant,CD258
+Renal Cell Carcinoma,CD259
+Rejection Prophylaxis,CD260
+Reiter's Syndrome,CD261
+Reflex Sympathetic Dystrophy Syndrome,CD262
+Raynaud's Syndrome,CD263
+Ramsay Hunt Syndrome,CD264
+Radionuclide Myocardial Perfusion Study,CD265
+Rabies Prophylaxis,CD266
+Q Feve,CD267
+Pupillary Dilation,CD268
+Pulmonary Hypertension,CD269
+"Pulmonary Embolism, Recurrent Event",CD270
+"Pulmonary Embolism, First Event",CD271
+Pulmonary Embolism,CD272
+Pudendal Neuralgia,CD273
+Psychosis,CD274
+Psoriatic Arthritis,CD275
+Psoriasis,CD276
+Pseudotumor Cerebri,CD277
+Pseudomembranous Colitis,CD278
+"Pseudogout, Prophylaxis",CD279
+Pseudobulbar Affect,CD280
+Pruritus of Partial Biliary Obstruction,CD281
+Pruritus,CD282
+"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis",CD283
+"Prosthetic Heart Valves, Mechanical Valves - Thrombosis Prophylaxis",CD284
+Prostatitis,CD285
+Prostate Cance,CD286
+Progesterone Insufficiency,CD287
+Primary Ovarian Failure,CD288
+Primary Nocturnal Enuresis,CD289
+Primary Immunodeficiency Syndrome,CD290
+Primary Hyperaldosteronism Diagnosis,CD291
+Primary Hyperaldosteronism,CD292
+Prevention of Thromboembolism in Atrial Fibrillation,CD293
+Prevention of Perinatal Group B Streptococcal Disease,CD294
+Prevention of Osteoporosis,CD295
+Prevention of Hypokalemia,CD296
+Prevention of Dental Caries,CD297
+Prevention of Cardiovascular Disease,CD298
+Prevention of Bladder infection,CD299
+Prevention of Atherothrombotic Events,CD300
+Premenstrual Syndrome,CD301
+Premenstrual Dysphoric Disorde,CD302
+Premature Ventricular Depolarizations,CD303
+Premature Lab,CD304
+Pre-Exposure Prophylaxis,CD305
+Precocious Puberty,CD306
+Postural Orthostatic Tachycardia Syndrome,CD307
+Postpartum Depression,CD308
+Postpartum Breast Pain,CD309
+Postoperative Pain,CD310
+Postoperative Ocular Inflammation,CD311
+Postoperative Increased Intraocular Pressure,CD312
+Postmenopausal Symptoms,CD313
+Postherpetic Neuralgia,CD314
+Post-Cholecystectomy Diarrhea,CD315
+Post Traumatic Stress Disorde,CD316
+Portal Hypertension,CD317
+Porphyria,CD318
+Polycythemia Vera,CD319
+Polycystic Ovary Syndrome,CD320
+Pneumonia,CD321
+Pneumococcal Disease Prophylaxis,CD322
+Platelet Aggregation Inhibition,CD323
+Plaque Psoriasis,CD324
+Pityriasis rubra pilaris,CD325
+Pinworm Infection (Enterobius vermicularis),CD326
+Photoaging of the Skin,CD327
+Pharyngitis,CD328
+Peyronie's Disease,CD329
+Pertussis,CD330
+Persistent Depressive Disorde,CD331
+Peritonitis,CD332
+Peripheral T-cell Lymphoma,CD333
+Peripheral Neuropathy,CD334
+Peripheral Arterial Disease,CD335
+Perioral Dermatitis,CD336
+Periodontitis,CD337
+Periodic Limb Movement Disorde,CD338
+Period Pain,CD339
+Perimenopausal Symptoms,CD340
+Performance Anxiety,CD341
+Percutaneous Coronary Intervention,CD342
+Peptic Ulce,CD343
+Pemphigus,CD344
+Pemphigoid,CD345
+Pelvic Inflammatory Disease,CD346
+Pediatric Growth Hormone Deficiency,CD347
+Pe,CD348
+Pathological Hypersecretory Conditions,CD349
+Patent Ductus Arteriosus,CD350
+Paroxysmal Supraventricular Tachycardia,CD351
+Parkinson's Disease,CD352
+Parkinsonism,CD353
+Parkinsonian Trem,CD354
+Paranoid Disorde,CD355
+"Paragonimus westermani, Lung Fluke",CD356
+Panic Disorde,CD357
+Pancreatic Exocrine Dysfunction,CD358
+Pancreatic Cance,CD359
+Pain/Feve,CD360
+Pain,CD361
+Paget's Disease,CD362
+Ovulation Induction,CD363
+Overactive Bladde,CD364
+Ovarian Cysts,CD365
+Ovarian Cance,CD366
+Otitis Media,CD367
+Otitis Externa,CD368
+Osteoporosis,CD369
+Osteolytic Bone Metastases of Solid Tumors,CD370
+Osteolytic Bone Lesions of Multiple Myeloma,CD371
+Osteoarthritis,CD372
+"Organ Transplant, Rejection Reversal",CD373
+"Organ Transplant, Rejection Prophylaxis",CD374
+Oral Thrush,CD375
+Oral and Dental Conditions,CD376
+Oppositional Defiant Disorde,CD377
+Opioid-Induced Constipation,CD378
+Opioid Overdose,CD379
+Opiate Withdrawal,CD380
+Opiate Dependence,CD381
+Opiate Adjunct,CD382
+Ophthalmic Surgery,CD383
+Oophorectomy,CD384
+"Onychomycosis, Toenail",CD385
+"Onychomycosis, Fingernail",CD386
+Oligospermia,CD387
+Ocular Rosacea,CD388
+Occipital Neuralgia,CD389
+Obstructive Sleep Apnea/Hypopnea Syndrome,CD390
+Obsessive Compulsive Disorde,CD391
+Obesity,CD392
+NSAID-Induced Ulcer Prophylaxis,CD393
+NSAID-Induced Gastric Ulce,CD394
+Not Listed / Othe,CD395
+Non-Small Cell Lung Cance,CD396
+Nonoccupational Exposure,CD397
+Noninfectious Colitis,CD398
+Non-Hodgkin's Lymphoma,CD399
+Nonalcoholic Fatty Liver Disease,CD400
+Nocturnal Leg Cramps,CD401
+Nocardiosis,CD402
+Nightmares,CD403
+Night Terrors,CD404
+Niacin Deficiency,CD405
+New Daily Persistent Headache,CD406
+Neutropenia Associated with Chemotherapy,CD407
+Neutropenia,CD408
+Neurotic Depression,CD409
+Neurosurgery,CD410
+Neurosis,CD411
+Neuropathic Pain,CD412
+Neuritis,CD413
+Neuralgia,CD414
+Nephrotic Syndrome,CD415
+Nephrocalcinosis,CD416
+Neoplastic Diseases,CD417
+Neck Pain,CD418
+"Nausea/Vomiting, Radiation Induced",CD419
+"Nausea/Vomiting, Postoperative",CD420
+"Nausea/Vomiting, Chemotherapy Induced",CD421
+Nausea/Vomiting of Pregnancy,CD422
+Nausea/Vomiting,CD423
+Nasal Polyps,CD424
+Nasal Congestion,CD425
+Nasal Carriage of Staphylococcus aureus,CD426
+Narcolepsy,CD427
+Myxedema Coma,CD428
+Myeloproliferative Disorders,CD429
+Myelofibrosis,CD430
+Myelodysplastic Syndrome,CD431
+Mycoplasma Pneumonia,CD432
+"Mycobacterium avium-intracellulare, Treatment",CD433
+Myasthenia Gravis,CD434
+Muscle Twitching,CD435
+Muscle Spasm,CD436
+Muscle Pain,CD437
+Mumps Prophylaxis,CD438
+Multiple Sclerosis,CD439
+Multiple Myeloma,CD440
+Multiple Endocrine Adenomas,CD441
+mulation) (phenylephrine),CD442
+Mucositis,CD443
+Mountain Sickness / Altitude Sickness,CD444
+Motion Sickness,CD445
+moterol),CD446
+moterol / mometasone),CD447
+Mononucleosis,CD448
+Mixed Connective Tissue Disease,CD449
+Mitral Valve Prolapse,CD450
+mist (,CD451
+mis,CD452
+min),CD453
+min / sitagliptin),CD454
+min / saxagliptin),CD455
+min / rosiglitazone),CD456
+min / pioglitazone),CD457
+Mild Cognitive Impairment,CD458
+Migraine Prevention,CD459
+Migraine,CD460
+Microscopic polyangiitis,CD461
+Methicillin-Resistant Staphylococcus Aureus Infection,CD462
+Menstrual Disorders,CD463
+Menorrhagia,CD464
+Menopausal Disorders,CD465
+Meningococcal Meningitis Prophylaxis,CD466
+"Meningitis, Meningococcal",CD467
+Meningitis,CD468
+Meniere's Disease,CD469
+Melasma,CD470
+"Melanoma, Metastatic",CD471
+Melanoma,CD472
+me,CD473
+Manscaping Pain,CD474
+Mania,CD475
+mance Anxiety,CD476
+Malignant Glioma,CD477
+Malaria Prevention,CD478
+Malaria,CD479
+Major Depressive Disorde,CD480
+Macular Edema,CD481
+Macular Degeneration,CD482
+m Pain Disorde,CD483
+Lymphoma,CD484
+Lymphocytic Colitis,CD485
+"Lyme Disease, Neurologic",CD486
+"Lyme Disease, Arthritis",CD487
+Lyme Disease,CD488
+Local Anesthesia,CD489
+llicular Lymphoma,CD490
+Liver Magnetic Resonance Imaging,CD491
+Lipodystrophy,CD492
+Linear IgA Disease,CD493
+Light Sedation,CD494
+Light Anesthesia,CD495
+Lichen Sclerosus,CD496
+Lichen Planus,CD497
+lic Acid Deficiency,CD498
+Lewy Body Dementia,CD499
+Leukocytoclastic Vasculitis,CD500
+Leukemia,CD501
+Lennox-Gastaut Syndrome,CD502
+Legionella Pneumonia,CD503
+Left Ventricular Dysfunction,CD504
+Lactose Intolerance,CD505
+Lactation Augmentation,CD506
+Labor Pain,CD507
+Labor Induction,CD508
+Klinefelter Syndrome,CD509
+Kidney Infections,CD510
+Keratosis,CD511
+Keratoconjunctivitis Sicca,CD512
+Keratitis,CD513
+Juvenile Rheumatoid Arthritis,CD514
+Juvenile Idiopathic Arthritis,CD515
+Joint Infection,CD516
+"Ischemic Stroke, Prophylaxis",CD517
+Ischemic Stroke,CD518
+Irritable Bowel Syndrome,CD519
+Iron Deficiency Anemia,CD520
+Iritis,CD521
+Intraocular Hypertension,CD522
+Intraabdominal Infection,CD523
+Interstitial Cystitis,CD524
+Intermittent Explosive Disorde,CD525
+Intermittent Claudication,CD526
+Insulin Resistance Syndrome,CD527
+"Insomnia, Stimulant-Associated",CD528
+Insomnia,CD529
+Influenza Prophylaxis,CD530
+Influenza,CD531
+Inflammatory Conditions,CD532
+Inflammatory Bowel Disease,CD533
+Infectious Diarrhea,CD534
+Infection Prophylaxis,CD535
+Indigestion,CD536
+Impetig,CD537
+Immunosuppression,CD538
+Idiopathic Thrombocytopenic Purpura,CD539
+ICU Agitation,CD540
+Ichthyosis,CD541
+ibromyalgia,CD542
+ibrocystic Breast Disease,CD543
+"Hypothyroidism, After Thyroid Removal",CD544
+Hypotension,CD545
+Hypopituitarism,CD546
+Hypoparathyroidism,CD547
+Hypomagnesemia,CD548
+Hypokalemic Periodic Paralysis,CD549
+Hypokalemia,CD550
+"Hypogonadism, Male",CD551
+Hypoglycemia,CD552
+Hypoestrogenism,CD553
+Hypodermoclysis,CD554
+Hypocalcemia,CD555
+Hypoactive Sexual Desire Disorde,CD556
+Hyperuricemia Secondary to Chemotherapy,CD557
+Hypertriglyceridemia,CD558
+Hyperthyroidism,CD559
+Hypertensive Emergency,CD560
+Hypersomnia,CD561
+Hyperprolactinemia,CD562
+Hyperphosphatemia of Renal Failure,CD563
+Hyperphosphatemia,CD564
+Hyperparathyroidism Secondary to Renal Impairment,CD565
+"Hyperlipoproteinemia Type IV, Elevated VLDL",CD566
+"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",CD567
+"Hyperlipoproteinemia Type IIa, Elevated LDL",CD568
+Hyperlipoproteinemia,CD569
+Hyperkalemia,CD570
+Hyperhidrosis,CD571
+Hyperekplexia,CD572
+Hypercalcemia of Malignancy,CD573
+Hypercalcemia,CD574
+Hyperbilirubinemia,CD575
+Hydrocephalus,CD576
+Human Papillomavirus Prophylaxis,CD577
+Human Papilloma Virus,CD578
+Hot Flashes,CD579
+Hodgkin's Lymphoma,CD580
+HIV Infection,CD581
+Histoplasmosis,CD582
+Hirsutism,CD583
+"High Cholesterol, Familial Homozygous",CD584
+"High Cholesterol, Familial Heterozygous",CD585
+High Cholesterol,CD586
+High Blood Pressure,CD587
+Hidradenitis Suppurativa,CD588
+Hiccups,CD589
+"Herpes Zoster, Prophylaxis",CD590
+Herpes Zoste,CD591
+"Herpes Simplex, Suppression",CD592
+"Herpes Simplex, Mucocutaneous/Immunocompromised Host",CD593
+"Herpes Simplex, Mucocutaneous/Immunocompetent Host",CD594
+Herpes Simplex Dendritic Keratitis,CD595
+Herpes Simplex,CD596
+Hereditary Angioedema,CD597
+Herbal Supplementation,CD598
+Hepatocellular Carcinoma,CD599
+Hepatitis C,CD600
+Hepatitis B Prevention,CD601
+Hepatitis B,CD602
+Hepatic Tum,CD603
+Hepatic Encephalopathy,CD604
+Hemorrhoids,CD605
+Hemophilia B,CD606
+Hemophilia A,CD607
+Hemangioma,CD608
+Helicobacter Pylori Infection,CD609
+Heart Failure,CD610
+Heart Attack,CD611
+Headache,CD612
+Head Lice,CD613
+Head Injury,CD614
+Head and Neck Cance,CD615
+Hashimoto's disease,CD616
+Hairy Cell Leukemia,CD617
+Granuloma Annulare,CD618
+Gouty Arthritis,CD619
+"Gout, Prophylaxis",CD620
+"Gout, Acute",CD621
+Gout,CD622
+"Gonococcal Infection, Uncomplicated",CD623
+"Gonococcal Infection, Disseminated",CD624
+Gonadotropin Inhibition,CD625
+Glioblastoma Multiforme,CD626
+Glioblastoma Multi,CD627
+Glaucoma/Intraocular Hypertension,CD628
+"Glaucoma, Open Angle",CD629
+Glaucoma,CD630
+Gingivitis,CD631
+Giardiasis,CD632
+Giant Cell Tumor of Bone,CD633
+Gestational Diabetes,CD634
+GERD,CD635
+Generalized Anxiety Disorde,CD636
+Gender Dysphoria,CD637
+ge HCT (amlodipine / hydrochlorothiazide / valsartan),CD638
+ge (amlodipine / valsartan),CD639
+Gaucher Disease,CD640
+Gastroparesis,CD641
+Gastrointestinal Stromal Tum,CD642
+Gastrointestinal Decontamination,CD643
+Gastroenteritis,CD644
+Gastritis/Duodenitis,CD645
+Gastric Ulcer Maintenance Treatment,CD646
+Gastric Cance,CD647
+Gas,CD648
+Gallbladder Disease,CD649
+Eyelash Hypotrichosis,CD650
+Eye Redness/Itching,CD651
+Eye Redness,CD652
+Extrapyramidal Reaction,CD653
+Expectoration,CD654
+eve,CD655
+Euvolemic Hyponatremia,CD656
+Esophageal Variceal Hemorrhage Prophylaxis,CD657
+Esophageal Spasm,CD658
+Esophageal Candidiasis,CD659
+Erosive Esophagitis,CD660
+Erectile Dysfunction,CD661
+Epilepsy,CD662
+"Epididymitis, Sexually Transmitted",CD663
+"Epicondylitis, Tennis Elbow",CD664
+Eosinophilic Esophagitis,CD665
+Enterocolitis,CD666
+Endoscopy or Radiology Premedication,CD667
+Endometriosis,CD668
+"Endometrial Hyperplasia, Prophylaxis",CD669
+Endometrial Hyperplasia,CD670
+Endometrial Cance,CD671
+Emergency Contraception,CD672
+emale Infertility,CD673
+Ehrlichiosis,CD674
+Edema,CD675
+Eczema,CD676
+Ectopic Pregnancy,CD677
+Ear Wax Impaction,CD678
+Dysuria,CD679
+Dystonia,CD680
+Dyspareunia,CD681
+Dysautonomia,CD682
+Dupuytren's contracture,CD683
+Duodenal Ulcer Prophylaxis,CD684
+Duodenal Ulce,CD685
+Dumping Syndrome,CD686
+Dry Skin,CD687
+Dry Eye Disease,CD688
+Diverticulitis,CD689
+Dissociative Identity Disorde,CD690
+Dietary Supplementation,CD691
+Dietary Fiber Supplementation,CD692
+Dientamoeba fragilis,CD693
+"Diarrhea, Chronic",CD694
+"Diarrhea, Acute",CD695
+Diarrhea,CD696
+Diaper Rash,CD697
+Diagnostic Bronchograms,CD698
+Diagnosis and Investigation,CD699
+Diabetic Peripheral Neuropathy,CD700
+Diabetic Macular Edema,CD701
+Diabetic Kidney Disease,CD702
+"Diabetes, Type 2",CD703
+"Diabetes, Type 1",CD704
+Diabetes Insipidus,CD705
+Dermatophytosis,CD706
+Dermatomyositis,CD707
+Dermatological Disorders,CD708
+Dermatologic Lesion,CD709
+Dermatitis Herpetiformis,CD710
+Dermatitis Herpeti,CD711
+Dermatitis,CD712
+Dercum's Disease,CD713
+Depression,CD714
+Dental Abscess,CD715
+Dementia,CD716
+"Delayed Puberty, Male",CD717
+"Deep Vein Thrombosis, Recurrent Event",CD718
+"Deep Vein Thrombosis, Prophylaxis",CD719
+"Deep Vein Thrombosis, First Event",CD720
+Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,CD721
+Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery,CD722
+Deep Vein Thrombosis,CD723
+Deep Neck Infection,CD724
+Dandruff,CD725
+Cystic Fibrosis,CD726
+Cyclothymic Disorde,CD727
+Cyclitis,CD728
+Cyclic Vomiting Syndrome,CD729
+Cutaneous T-cell Lymphoma,CD730
+Cutaneous Larva Migrans,CD731
+Cutaneous Candidiasis,CD732
+Croup,CD733
+"Crohn's Disease, Maintenance",CD734
+"Crohn's Disease, Acute",CD735
+Crohn's Disease,CD736
+Cough and Nasal Congestion,CD737
+Cough,CD738
+Costochondritis,CD739
+Coronary Artery Disease,CD740
+Corneal Ulce,CD741
+"COPD, Maintenance",CD742
+"COPD, Acute",CD743
+COPD,CD744
+"Constipation, Drug Induced",CD745
+"Constipation, Chronic",CD746
+"Constipation, Acute",CD747
+Constipation,CD748
+"Conjunctivitis, Bacterial",CD749
+"Conjunctivitis, Allergic",CD750
+Conjunctivitis,CD751
+Condylomata Acuminata,CD752
+Computed Tomography,CD753
+Colorectal Cance,CD754
+Cold Symptoms,CD755
+Cold Sores,CD756
+Cogan's Syndrome,CD757
+Coccidioidomycosis,CD758
+CNS Magnetic Resonance Imaging,CD759
+CMV Prophylaxis,CD760
+Cluster-Tic Syndrome,CD761
+Cluster Headaches,CD762
+Clostridial Infection,CD763
+Chronic Spasticity,CD764
+Chronic Pancreatitis,CD765
+Chronic Pain,CD766
+Chronic Myofascial Pain,CD767
+Chronic Myelogenous Leukemia,CD768
+Chronic Lymphocytic Leukemia,CD769
+Chronic Inflammatory Demyelinating Polyradiculoneuropathy,CD770
+Chronic Idiopathic Constipation,CD771
+Chronic Fatigue Syndrome,CD772
+Chronic Eosinophilic Leukemia,CD773
+Cholera,CD774
+Chlamydia Infection,CD775
+Cervical Dystonia,CD776
+Cerebrovascular Insufficiency,CD777
+Cerebral Spasticity,CD778
+Cerebral Edema,CD779
+Cataplexy,CD780
+Cardiovascular Risk Reduction,CD781
+Carcinoid Tum,CD782
+Candidemia,CD783
+Candida Urinary Tract Infection,CD784
+Cance,CD785
+Campylobacter Gastroenteritis,CD786
+cal Segmental Glomerulosclerosis,CD787
+Cachexia,CD788
+Bursitis,CD789
+"Burns, External",CD790
+Burning Mouth Syndrome,CD791
+Bullous Pemphigoid,CD792
+Bulimia,CD793
+Bronchospasm Prophylaxis,CD794
+Bronchitis,CD795
+Bronchiectasis,CD796
+"Breast Cancer, Prevention",CD797
+"Breast Cancer, Palliative",CD798
+"Breast Cancer, Metastatic",CD799
+"Breast Cancer, Adjuvant",CD800
+Breast Cance,CD801
+Breakthrough Pain,CD802
+Brain Tum,CD803
+Bowel Preparation,CD804
+Borderline Personality Disorde,CD805
+Bone infection,CD806
+Body Imaging,CD807
+Body Dysmorphic Disorde,CD808
+Blepharitis,CD809
+Bleeding Disorde,CD810
+Bladder Infection,CD811
+Birth Control,CD812
+Bipolar Disorde,CD813
+Binge Eating Disorde,CD814
+Biliary Cirrhosis,CD815
+Benzodiazepine Withdrawal,CD816
+Benign Prostatic Hyperplasia,CD817
+Benign Essential Trem,CD818
+Behcet's Disease,CD819
+Basal Cell Carcinoma,CD820
+Bartonellosis,CD821
+Barrett's Esophagus,CD822
+Bacterial Vaginitis,CD823
+Bacterial Skin Infection,CD824
+Bacterial Infection,CD825
+Bacterial Endocarditis Prevention,CD826
+Back Pain,CD827
+Babesiosis,CD828
+B12 Nutritional Deficiency,CD829
+Avian Influenza,CD830
+AV Heart Block,CD831
+Autoimmune Hepatitis,CD832
+Autoimmune Hemolytic Anemia,CD833
+Autism,CD834
+Auditory Processing Disorde,CD835
+Atrophic Vaginitis,CD836
+Atrophic Urethritis,CD837
+Atrial Flutte,CD838
+Atrial Fibrillation,CD839
+Atopic Dermatitis,CD840
+atigue,CD841
+Atherosclerosis,CD842
+Asystole,CD843
+"Asthma, Maintenance",CD844
+"Asthma, acute",CD845
+Asthma,CD846
+Aspiration Pneumonia,CD847
+"Aspergillosis, Aspergilloma",CD848
+Asperger Syndrome,CD849
+Ascariasis,CD850
+Arrhythmia,CD851
+Aphthous Ulce,CD852
+Anxiety and Stress,CD853
+Anxiety,CD854
+Antiphospholipid Syndrome,CD855
+Anti NMDA Receptor Encephalitis,CD856
+Anthrax,CD857
+Anorexia/Feeding Problems,CD858
+Anorexia,CD859
+Ankylosing Spondylitis,CD860
+Angioedema,CD861
+Angina Pectoris Prophylaxis,CD862
+Angina,CD863
+Anesthetic Adjunct,CD864
+Anesthesia,CD865
+"Anemia, Sickle Cell",CD866
+"Anemia, Chemotherapy Induced",CD867
+Anemia Associated with Chronic Renal Failure,CD868
+Anemia,CD869
+Androgenetic Alopecia,CD870
+Anaplastic Oligodendroglioma,CD871
+Anaplastic Astrocytoma,CD872
+Anaphylaxis,CD873
+Anal Itching,CD874
+Anal Fissure and Fistula,CD875
+Amyotrophic Lateral Sclerosis,CD876
+amilial Mediterranean Feve,CD877
+amilial Cold Autoinflammatory Syndrome,CD878
+Amenorrhea,CD879
+Amebiasis,CD880
+Alzheimer's Disease,CD881
+Alpha-1 Proteinase Inhibitor Deficiency,CD882
+Alopecia,CD883
+Allergies,CD884
+Allergic Urticaria,CD885
+Allergic Rhinitis,CD886
+Allergic Reactions,CD887
+Alcohol Withdrawal,CD888
+Alcohol Dependence,CD889
+ailure to Thrive,CD890
+AIDS Related Wasting,CD891
+Agitation,CD892
+Agitated State,CD893
+Aggressive Behavi,CD894
+Adult Human Growth Hormone Deficiency,CD895
+Adrenocortical Insufficiency,CD896
+ADHD,CD897
+Addison's Disease,CD898
+Acute Promyelocytic Leukemia,CD899
+Acute Nonlymphocytic Leukemia,CD900
+Acute Lymphoblastic Leukemia,CD901
+Acute Coronary Syndrome,CD902
+actor IX Deficiency,CD903
+Actinic Keratosis,CD904
+Acne,CD905
+acial Wrinkles,CD906
+acial Lipoatrophy,CD907
+Acetaminophen Overdose,CD908
+Abortion,CD909
+Abnormal Uterine Bleeding,CD910
+Abdominal Distension,CD911
